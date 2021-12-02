@@ -1,5 +1,1 @@
 # SI-GuidedProject-4198-1626238238
-EFFECTIVE HEART DISEASE PREDICTION USING IBM WATSON STUDIO
-
-
-DATASET LINK : https://www.kaggle.com/ronitf/heart-disease-uci
